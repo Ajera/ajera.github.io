@@ -1,2 +1,0 @@
-# ajera.github.io
-Projectwebsite
